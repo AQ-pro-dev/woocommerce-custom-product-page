@@ -4,7 +4,7 @@ Plugin Name: WooCommerce Custom Product Page
 Plugin URI: http://example.com/
 Description: A plugin to customize the WooCommerce product detail page.
 Version: 1.0.0
-Author: Fahad Tanveer
+Author: Abdul Qadeer
 Author URI: http://example.com/
 License: GPL2
 */
