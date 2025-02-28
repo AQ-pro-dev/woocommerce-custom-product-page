@@ -1,0 +1,12 @@
+/* Adjust the general swatch styles */
+.color-swatches {
+    display: flex;
+    gap: 10px;
+}
+
+.color-swatches .swatch {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}

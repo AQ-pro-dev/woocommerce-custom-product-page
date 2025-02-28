@@ -1,0 +1,16 @@
+/* Add custom styles for the admin settings page */
+#color-mappings-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+#color-mappings-table th,
+#color-mappings-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+#color-mappings-table th {
+    background-color: #f1f1f1;
+}
